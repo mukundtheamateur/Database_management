@@ -2,4 +2,6 @@
 
 Framework Used : Tkinter
 
+Includes all CRUD operations
+
 ![image](https://user-images.githubusercontent.com/61543246/157045148-56afcb83-b0c6-494d-a84c-c98a6cf9435e.png)
